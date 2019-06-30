@@ -1,6 +1,6 @@
-id=template
-name=Template Module
+id=google-app-8.65.4.21
+name=Google 8.65.4.21.arm64
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=makfc
+description=Replace the system Google app with Google 8.65.4.21.arm64

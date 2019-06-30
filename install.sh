@@ -51,6 +51,7 @@ REPLACE_EXAMPLE="
 
 # Construct your own list here
 REPLACE="
+/system/product/priv-app/Velvet
 "
 
 ##########################################################################################
@@ -123,7 +124,7 @@ REPLACE="
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
+  ui_print " Google 8.65.4.21.arm64 Module "
   ui_print "*******************************"
 }
 
