@@ -1,3 +1,3 @@
 # Why
 
-Bring 'Now on tap' feature back in Android Q.
+Bring back the 'Now on tap' feature in Android Q.
